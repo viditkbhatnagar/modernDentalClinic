@@ -11,7 +11,7 @@ const doctors = [
     degree: 'BDS, MDS',
     phone: '+91-9928708209',
     bio: 'An expert in cosmetic dentistry and orthodontics, Dr. Anshu is dedicated to perfecting patients\' smiles.',
-    image: '/doctor-images/anshu.jpg'
+    image: '/doctor-images/anshu2.jpg'
   }
 ];
 
